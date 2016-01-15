@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings_title">Settings</string>
+</resources>
